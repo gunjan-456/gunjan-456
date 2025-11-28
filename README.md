@@ -1,11 +1,11 @@
-<h2 align="left">Hi👋, I'm Gunjan Singh</h2>
+<h1 align="left">Hi👋, I'm Gunjan Singh</h1>
 <h4 align="left">
 🚀 MERN Stack Developer | Backend Enthusiast | Problem Solver
 </h4>
 
 ---
 
-<h2 align="left">✨About me</h2>
+<h2>✨About me</h2>
 
 <p>I’m a passionate full stack developer eager to apply my skills in real-world projects. I enjoy learning new technologies, writing clean code, and building user-friendly applications. I’m excited to grow, collaborate, and contribute to meaningful software.</p>
 
@@ -23,7 +23,7 @@
 ---
 
 ## Experience
----
+
 
 ### 💼 Web Developer Intern  
 TechnoHacks, Remote (Nov 2023 – Jan 2024)
